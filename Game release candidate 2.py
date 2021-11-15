@@ -65,7 +65,7 @@ if code == "x5r2f":
     print("Дополнительный уровень!")   
     resultdop = input("125.7+42.5")
     if resultdop == "69.2" or "69,2":
-        print("Молодец")
+        print("Молодец!")
         print("Жди обновлений игры")
         print("Страница игры https://github.com/programmer-L/Game125 !скопируй ссылку!")
         time.sleep(7)
