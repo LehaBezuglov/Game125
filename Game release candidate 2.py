@@ -1,5 +1,5 @@
 import time
-print("Все права принадлижат LehaBezuglov®")
+print("Все права принадлижат LehaBezuglov® ")
 attemps1 = 1
 attemps2 = 1
 attemps3 = 1
