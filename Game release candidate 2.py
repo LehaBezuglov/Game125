@@ -32,7 +32,7 @@ result3 = input("23+13")
 while result3 != "36":
     attemps3 +=1
     result3 = input("Попробуй  снова 23+13")
-print("Ты решил с",attemps3,"попытки твоя часть кода r")
+print("Ты решил с",attemps3)
 if attemps3 == 1:
     print("твоя часть кода r")
 else:
